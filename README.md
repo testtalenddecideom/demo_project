@@ -1,2 +1,2 @@
 # demo_project
-A project for demonstration purposes
+A project for talend demonstration purposes
